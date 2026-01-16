@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [AYMEN] 👋
 ### 🚀 Software Engineering Student | AI, Computer Vision & NLP Enthusiast
 
 <div align="center">
@@ -13,7 +13,6 @@ I am a passionate Software Engineering student deeply focused on the intersectio
 - 🤖 **Current Focus:** Fine-tuning Large Language Models (LLMs) and optimizing real-time Computer Vision pipelines.
 - 🎓 **Education:** Pursuing a degree in Software Engineering.
 - 💡 **Interests:** Generative AI, Neural Networks, Deep Learning, and Open Source.
-- ✍️ **Blog:** [Link to your blog/portfolio if you have one]
 
 ---
 
