@@ -29,16 +29,13 @@ I am a passionate Software Engineering student deeply focused on the intersectio
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AYMENsl25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AYMENsl25&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
 
-### 📂 Featured Projects
-* **[Project Name]**: A computer vision project using YOLOv8 for real-time object detection.
-* **[Project Name]**: Custom NLP pipeline using Transformers for sentiment analysis.
-* **[Project Name]**: Implementation of a RAG (Retrieval-Augmented Generation) system for local documentation.
+
 
 ---
 
@@ -52,5 +49,5 @@ I am a passionate Software Engineering student deeply focused on the intersectio
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=AYMENsl25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
