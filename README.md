@@ -1,4 +1,4 @@
-# Hi there, I'm [AYMEN] 👋
+# Hi there, I'm [aymen] 👋
 ### 🚀 Software Engineering Student | AI, Computer Vision & NLP Enthusiast
 
 <div align="center">
@@ -29,28 +29,28 @@ I am a passionate Software Engineering student deeply focused on the intersectio
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight&hide=html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide=html,css" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
 * **[Project Name]**: A computer vision project using YOLOv8 for real-time object detection.
-* **[Project Name]**: Custom NLP pipeline using Transformers for sentiment analysis on Twitter data.
+* **[Project Name]**: Custom NLP pipeline using Transformers for sentiment analysis.
 * **[Project Name]**: Implementation of a RAG (Retrieval-Augmented Generation) system for local documentation.
 
 ---
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:[YOUR_EMAIL]" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yourname@email.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
   <i>"The best way to predict the future is to invent it."</i><br>
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME_HERE&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
